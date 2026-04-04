@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#html{
+    background-color: #191d7b;
+}
+#header>img{
+    width: 100%;
+}
+p,h1,h2{
+    color: white;
+}
+#first>h1,#first>p{
+    padding-bottom: 20px;
+}
+
+.h{
+    font-family: sigmar;
+}
+.p{
+    font-family: DM sans;
+}
+#first{
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 30px;
+}
+#second{
+    margin-top: 60px;
+}
+.card{
+    padding: 20px;
+    margin: 50px;
+    background-color: #5d64d1;
+    border-radius: 35px;
+    position: relative;
+}
+.card > img{
+    width: 100%;
+    display: block;
+    border-radius: 35px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.card > h2{
+    margin-bottom: 20px;
+}
+.buttom{
+    display: block;
+    text-align: center;
+    margin: 15px;
+    padding: 5px;
+    padding-top: 10px;
+    background-color: white;
+    border-radius: 15px;
+    width: 290px;
+    height: 45px;
+}
+#a{
+    text-decoration: inherit;
+    color: black;
+}
+#link{
+    background-color: rgb(88 101 242);
+}
+#pulsante svg{
+    margin-right: 10px;
+}
+.icon{
+    display: block;
+    width: 80px;
+    position: absolute;
+    top: -50px;
+}
