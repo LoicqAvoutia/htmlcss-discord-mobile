@@ -6,6 +6,9 @@
 #html{
     background-color: #191d7b;
 }
+body{
+    width: 512px;
+}
 #header>img{
     width: 100%;
 }
